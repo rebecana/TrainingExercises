@@ -1,0 +1,3 @@
+package ro.iss.trainingexexrcises
+
+class CommunicateWithActivityImpl : FirstFragment.Companion.CommunicateWithActivity
