@@ -1,2 +1,1 @@
-# TrainingExercises
-# Android App
+# TrainingExercises AndroidApp
